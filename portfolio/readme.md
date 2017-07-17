@@ -87,8 +87,8 @@ Kakao, Daum, 이미지 분석 등의 API를 사용하였습니다. 위치기반,
 <br>
 
 **Wonjun Jeong Site**<br>
-Link : [Github](https://github.com/nttejun/nttejun.github.io/tree/master/portfolio)<br>
-Link : [Blog](http://wjun.tistory.com/)<br>
-Link : [Facebook](https://www.facebook.com/jung.wonjun.96)<br>
+Link : [Github (http://github.com/nttejun)](https://github.com/nttejun/nttejun.github.io/tree/master/portfolio)<br>
+Link : [Blog (http://wjun.tistory.com/)](http://wjun.tistory.com/)<br>
+Link : [Facebook (https://www.facebook.com/nttejun)](https://www.facebook.com/nttejun)<br>
 Email : nttejun@gmail.com<br>
 phone : 010-5516-4192<br>
