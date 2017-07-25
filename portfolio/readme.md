@@ -1,5 +1,28 @@
 ## 정원준 신입 개발자
 
+<style>
+.div1{
+    float:left
+ }
+</style>
+
+<div class="div1">
+    <img src="./img/profile.jpg" width="200" height="250">
+</div>
+
+<div class="div2">
+
+**Wonjun Jeong Site**<br>
+Link : [Github (http://github.com/nttejun)](https://github.com/nttejun/nttejun.github.io/tree/master/portfolio)<br>
+Link : [Blog (http://wjun.tistory.com/)](http://wjun.tistory.com/)<br>
+Link : [Facebook (https://www.facebook.com/nttejun)](https://www.facebook.com/nttejun)<br>
+Email : nttejun@gmail.com<br>
+phone : 010-5516-4192<br>
+
+</div>
+
+![stackImage](./img/stackImage.png)
+
 #### 프로젝트 경력사항 <br>
 | 프로젝트명 | Whame(이미지 분석을 이용한 데이터 제공 웹 서비스) |
 | :-----: | ----- |
@@ -84,11 +107,3 @@ Kakao, Daum, 이미지 분석 등의 API를 사용하였습니다. 위치기반,
 한번 배웠던 자바에 대한 기본 지식을 깊이 있게 다시 공부하면서 매일 사용하던 기능도 사용의 의미를 정확히 알고 새로운 방법으로 활용할 수 있는 것을 깨닫게 되면서 공부에 대한 즐거움과 매일 사용하던 단어도 새로운 단어처럼 느낄 수 있다는 것이 프로그래밍의 매력이라고 생각되며 이러한 깨달음의 과정 속에서 개발자의 평생공부를 나도 즐겁게 할 수 있겠다는 확신을 갖게 해주었습니다. <br>
 
 ---
-<br>
-
-**Wonjun Jeong Site**<br>
-Link : [Github (http://github.com/nttejun)](https://github.com/nttejun/nttejun.github.io/tree/master/portfolio)<br>
-Link : [Blog (http://wjun.tistory.com/)](http://wjun.tistory.com/)<br>
-Link : [Facebook (https://www.facebook.com/nttejun)](https://www.facebook.com/nttejun)<br>
-Email : nttejun@gmail.com<br>
-phone : 010-5516-4192<br>
