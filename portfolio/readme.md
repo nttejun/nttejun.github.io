@@ -1,27 +1,20 @@
 ## 정원준 신입 개발자
 
-<style>
-.div1{
-    float:left
- }
-</style>
+<img src="./img/profile.jpg" style="vertical-align:text-top" width="160" height="210" >
 
-<div class="div1">
-    <img src="./img/profile.jpg" width="200" height="250">
-</div>
-
-<div class="div2">
-
-**Wonjun Jeong Site**<br>
+**Wonjun Jeong Site** <br>
 Link : [Github (http://github.com/nttejun)](https://github.com/nttejun/nttejun.github.io/tree/master/portfolio)<br>
 Link : [Blog (http://wjun.tistory.com/)](http://wjun.tistory.com/)<br>
-Link : [Facebook (https://www.facebook.com/nttejun)](https://www.facebook.com/nttejun)<br>
+Link : [Facebook (https://www.facebook.com/nttejun)](https://www.facebook.com/nttejun) <br>
 Email : nttejun@gmail.com<br>
 phone : 010-5516-4192<br>
 
-</div>
+<br>
 
 ![stackImage](./img/stackImage.png)
+
+---
+<br>
 
 #### 프로젝트 경력사항 <br>
 | 프로젝트명 | Whame(이미지 분석을 이용한 데이터 제공 웹 서비스) |
