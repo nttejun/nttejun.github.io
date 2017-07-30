@@ -1,15 +1,6 @@
 ## 정원준 신입 개발자
 
 
-<img src="./img/profile.jpg" style="vertical-align:text-top" width="160" height="210" >
-
-**Wonjun Jeong Site** <br>
-Link : [Github (http://github.com/nttejun)](https://github.com/nttejun/nttejun.github.io/tree/master/portfolio)<br>
-Link : [Blog (http://wjun.tistory.com/)](http://wjun.tistory.com/)<br>
-Link : [Facebook (https://www.facebook.com/nttejun)](https://www.facebook.com/nttejun) <br>
-Email : nttejun@gmail.com<br>
-phone : 010-5516-4192<br>
-
 <br>
 
 ![stackImage](./img/stackImage.png)
@@ -37,11 +28,25 @@ Whame 프로젝트에서 저는 팀장으로 팀원들 간의 원활한 소통�
 개발환경은 **Windows 10에서 eclipse, tomcat, spring MVC, maven 을** 사용하며 사용자의 **이미지를 저장하기 위한 Amazon S3 스토리지** 서비스와 오라클DB와 **항상 연결 가능한 환경을 위해 Amazon RDS를 사용하였습니다.** <br>
 
 ---
+
+<br>
+
+### 개인 프로필
+
+<img src="./img/profile.jpg" style="vertical-align:text-top" width="160" height="210" >
+
+**Wonjun Jeong Site** <br>
+Link : [Github (http://github.com/nttejun)](https://github.com/nttejun/nttejun.github.io/tree/master/portfolio)<br>
+Link : [Blog (http://wjun.tistory.com/)](http://wjun.tistory.com/)<br>
+Link : [Facebook (https://www.facebook.com/nttejun)](https://www.facebook.com/nttejun) <br>
+Email : nttejun@gmail.com<br>
+phone : 010-5516-4192<br>
+
 <br>
 
 | 기간 | 프로젝트 |
 | :----: | :----: |
-| 2017.06 - 2017.07 | Youtube Download 프로젝트 (진행중) |
+| 2017.07 - 2017.08 | Youtube Download 프로젝트 (진행중) |
 | 2017.03 - 2017.06 | 이미지분석 프로젝트 (진행완료) [(데모영상)](https://youtu.be/eAeVGDenO10) |
 
 | 기간 | 이력 |
