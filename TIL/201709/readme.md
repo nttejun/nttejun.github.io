@@ -13,6 +13,7 @@
 + 데일리로 학습내용을 확인할 수 있도록 보다 작은 단위 TIL(Today I Learned) 방법으로 정리한다
 
 ---
+<br>
 
 ## 09 . 02 Saturday
 
@@ -24,3 +25,18 @@
 
 + AWS [공식문서](http://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/ec2-examples.html)와 생활코딩 [강의](https://opentutorials.org/course/2717/11768)를 통해 학습하였습니다
 + [SDK](http://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/welcome.html), User 권한, EC2 사용방법에 대한 학습을 할 수 있었습니다
+
+---
+<br>
+
+## 09 . 03 Sunday
+
+### [모던웹을 위한 node.js 프로그래밍](http://book.daum.net/detail/book.do?bookid=DGT00030982501YE) 서적을 읽었다
+
++ 모듈에 기능을 담아 app.js 코드를 간결하게 작성하는 법을 알게됬다. node.js로 AWS S3를 연동한 간단한 기능 구현 시 적용해야겠다
+
+### [조대협의 서버사이드 소프트웨어 개발과 테스트](http://book.daum.net/detail/book.do?bookid=KOR9788965400936) 서적을 읽었다
+
++ "로컬 개발 환경에서 가장 주의할 점은 같은 환경을 사용하는 것이다" 협업 당시 다소 놓쳤던 부분을 확인할 수 있었다
++ "요구사항이 변화해도 개발 가능하도록 구현한다 - 애자일 프로세스" 애자일 스크럼 방법론, 전체 개발 및 프로젝트 관리, 테스트 등의 내용을 이해하기 쉽도록 풀어놓았다
++ 내용에 있던 [layoutit 부트스트랩](http://www.layoutit.com/build)도 node.js로 구현 시 사용해야겠다
