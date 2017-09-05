@@ -53,3 +53,17 @@
 ### 알고리즘을 공부하고있다. 선형정렬의 [Radix Sort](https://github.com/nttejun/algorithm-euler/blob/master/euler/src/sorting/RadixSort.java)를 구현하고 있다
 
 + 기수정렬의 원리 이해를 위해 [동영상](https://www.youtube.com/watch?v=YXFI4osELGU)으로 학습했다
+
+---
+<br>
+
+## 09 . 05 Tuesday
+
+### [next step](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=91501933) 서버실습을 위해 코드를 clone 하였다
+
++ Intellij에서 maven lib로 Logger클래스 사용을 위해 필요한 jar 파일 다운이 안됬다
++ ServerSocket, RequestHandler 클래스를 [공부]했다
+
+### 알고리즘을 공부하고있다. Radix Sort를 구현하고 있다
+
++ 버킷에 인덱스와 일치하는 숫자를 담는 기능은 구현했다 순서대로 버킷에서 꺼내 정렬하는 기능부터 구현하면 된다
