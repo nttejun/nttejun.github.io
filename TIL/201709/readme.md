@@ -67,3 +67,19 @@
 ### 알고리즘을 공부하고있다. Radix Sort를 구현하고 있다
 
 + 버킷에 인덱스와 일치하는 숫자를 담는 기능은 구현했다 순서대로 버킷에서 꺼내 정렬하는 기능부터 구현하면 된다
+
+
+## 09 . 06 Wednesday
+
+### 알고리즘을 공부한 내용을 [정리](http://wjun.tistory.com/62)했다. 선형정렬의 [Radix Sort](https://github.com/nttejun/algorithm-euler/blob/master/euler/src/sorting/RadixSort.java)를 구현했다
+
++ 선형정렬을 구현하면서 이전에 공부했던 [자료구조](http://core.ewha.ac.kr/publicview/C0101020141001104447195951?vmode=f) 강의를 다시 봤다
++ 선형 리스트 구현이 단순해서 좋았지만 메모리 공간이나 항목 삭제 시 원소 이동 문제가 있어 많은 값을 대상으로 할 경우를 생각하면 계속 신경이 쓰인다
+
+### Ubuntu Linux 환경에 적응하고 있다
+
++ java 설정 및 intellij 등 필요한 도구를 설치하고 기본 커멘드 입력(mv옵션, rm옵션, -xzvf 등)을 연습했다
+
+### 이동하는 시간동안 You don't know JS를 읽고 있다
+
++ 1장 타입, 2장 값 까지 읽고 에버노트에 정리를 완료했다
