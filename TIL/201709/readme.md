@@ -96,5 +96,15 @@
 + 리눅스, 커널의 개념을 정리하고 사용 이유와 리눅스에 대한 궁금한 내용들을 [정리](http://wjun.tistory.com/63)하는 시간을 가졌다
 + 일정이 정해져 있어 [리눅스 커널 인터페이스](https://ko.wikipedia.org/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4_%EC%BB%A4%EB%84%90_%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4) 구조는 다음주 중에 공부해서 정리해야겠다
 
+---
+<br>
 
+## 09 . 08 Friday
+
+### 맥북을 갖고싶다. 리눅스 VM 환경의 성능 한계를 느끼면서 Window로 다시 돌아왔다
+
+### Node.js로 AWS S3에 업로드를 [구현](http://wjun.tistory.com/64)했다
+
+---
+<br>
 
