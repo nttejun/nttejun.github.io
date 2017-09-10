@@ -108,3 +108,8 @@
 ---
 <br>
 
+## 09 . 09 Saturday
+
+### 객체지향언어, 자바에 대해 정리했던 개념들을 다시한번 공부했다
+
+### [Whame 프로젝트](https://youtu.be/eAeVGDenO10)에 사용한 API, Server side 개념을 다시한번 공부했다
