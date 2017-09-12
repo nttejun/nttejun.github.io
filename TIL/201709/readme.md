@@ -59,7 +59,7 @@
 
 ## 09 . 05 Tuesday
 
-### [next step](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=91501933) 서버실습을 위해 코드를 clone 하였다
+### [next step](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=91501933) 서버실습을 위해 코드를 clone 했다
 
 + Intellij에서 maven lib로 Logger클래스 사용을 위해 필요한 jar 파일 다운이 안됬다
 + ServerSocket, RequestHandler 클래스를 [공부]했다
@@ -139,3 +139,16 @@
 ---
 <br>
 
+## 09 . 12 Tuesday
+
+### [Java 객체지향 디자인 패턴](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788968480911) 1장 모델링을 읽었다
+
++ "집약과 합성의 구분방법은 전체객체와 부분객체의 생명주기다"
++ "연관관계는 오랜시간 함께하는 객체 관계를 의존관계는 짧은 시간동안 이용하는 관계다"
++ "인터페이스는 책임이다. 객체가 외부에 제공하는 서비스나 기능이 객체가 수행하는 책임을 의미한다"
++ 객체의 관계를 구분하는 방법, 서비스 단위 인터페이스 생성을 정리했다
+
+### BinaryTree를 [구현](https://github.com/nttejun/algorithm-euler/blob/master/euler/src/tree/BinaryTree.java)하고 있다
+
++ 노드 삽입과 생성까지 구현했다
++ 이진탐색 트리를 구현할 계획이다
