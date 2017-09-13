@@ -141,7 +141,7 @@
 
 ## 09 . 12 Tuesday
 
-### [Java 객체지향 디자인 패턴](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788968480911) 1장 모델링을 읽었다
+### [Java 객체지향 디자인패턴](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788968480911) 1장 모델링을 읽었다
 
 + "집약과 합성의 구분방법은 전체객체와 부분객체의 생명주기다"
 + "연관관계는 오랜시간 함께하는 객체 관계를 의존관계는 짧은 시간동안 이용하는 관계다"
@@ -152,3 +152,14 @@
 
 + 노드 삽입과 생성까지 구현했다
 + 이진탐색 트리를 구현할 계획이다
+
+---
+<br>
+
+## 09 . 13 Wednesday
+
+### [Java 객체지향 디자인패턴](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788968480911) 2장 객체지향의 원리를 공부했다
+
++ 추상화, 캡슐화, 다형성의 구현을 연습해보며 다시 한번 개념을 복습하는 시간을 가졌다
++ 일반화(상속)와 [위임](https://en.wikipedia.org/wiki/Delegation_(computing))을 [학습](http://wjun.tistory.com/66)하면서 1장 모델링 내용과 연장되어 서비스를 만들고 변경을 위해 클래스, 객체의 생성과 어떻게 관계를 나타낼 것인지 중요성을 공부하면서 설계, 구현 이것이 전체 앱에 미칠 영향에 대해 생각할 수 있는 시간이 되었다
++ 상속의 사용 결정을 판단하는 규칙 '피터 코드의 상속규칙' 하나의 개념 사용에도 올바른 판단기준으로 판단하는 것을 보면서 작은 단위의 구현부터 올바른 결정이 개발 생산성을 높이는 중요한 과정이라고 생각된다
