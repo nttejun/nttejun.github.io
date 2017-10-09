@@ -14,8 +14,9 @@
 
 | 기간 | 프로젝트 |
 | :----: | :----: |
-| 2017.09.20 - 2017.10.04 (기간 중 10일) | [Today Project](https://youtu.be/w9TuLOraEW0) |
-| 2017.03 - 2017.06 (3개월) | [Whame Project](https://youtu.be/eAeVGDenO10) |
+| 2017.03 - 2017.06 (3개월) | [Whame](https://youtu.be/eAeVGDenO10) |
+| 2017.09.20 - 2017.10.04 (기간 중 10일) | [Today](https://youtu.be/w9TuLOraEW0) |
+
 
 ![stackImage](./img/stackImage.png)
 
@@ -23,9 +24,9 @@
 
 ## 프로젝트 내용 <br>
 
-### [Today 프로젝트](https://github.com/nttejun/Today) ([영상](https://youtu.be/w9TuLOraEW0))
-#### 프로젝트 기간 : 2017.09.20 - 2017.10.04 (기간 중 10일)
-#### 개발인원 : 1명
+## 프로젝트 : [Today](https://github.com/nttejun/Today)
+#### 개발 기간 : 2017.09.20 - 2017.10.04 (기간 중 10일) [(Demo Video)](https://youtu.be/w9TuLOraEW0)
+#### 개발 인원 : 1명
 
 | 구분 | 사용기술 |
 | ----- | ----- |
@@ -42,12 +43,12 @@
     - 완료 : Ajax를 사용하여 로그인, 글 등록 비동기 처리
 - 리눅스에 접속해서 EC2 인스턴스 IP 주소를 사용하여 프로젝트 접속 : 완료
 
-
 <br>
+---
 
-### [Whame 프로젝트](https://github.com/nttejun/WhameProject) ([영상](https://youtu.be/eAeVGDenO10))
-#### 프로젝트 기간 : 2017.03 - 2017.06 (3개월)
-#### 개발인원 : 4명
+## 프로젝트 : [Whame](https://github.com/nttejun/WhameProject)
+#### 개발 기간 : 2017.03 - 2017.06 (3개월) [(Demo Video)](https://youtu.be/eAeVGDenO10)
+#### 개발 인원 : 4명
 
 | 구분 | 사용기술 |
 | ----- | ----- |
