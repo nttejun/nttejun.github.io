@@ -1,21 +1,61 @@
 ## 정원준 신입 개발자
 
 
+| 구분 | 보유기술 |
+| ----- | ----- |
+| Programing Language | Java, JS, HTML5, CSS, JQuery |
+| Framework / Library | Spring(3~4), Kakao, Daum Maps, GoogleVision, OpenCV, CSS Framework |
+| Server | MySQL, Nodejs, Oracle, tomcat, AWS EC2|
+| Tool | Github, bash, maven, bower |
+
 <br>
 
 ![stackImage](./img/stackImage.png)
 
----
 <br>
 
+| 기간 | 프로젝트 |
+| :----: | :----: |
+| 2017.09.20 - 2017.10.04 (기간 중 10일) | [Today Project](https://youtu.be/w9TuLOraEW0) |
+| 2017.03 - 2017.06 (3개월) | [Whame Project](https://youtu.be/eAeVGDenO10) |
+
+
 ### 프로젝트 경력사항 <br>
-| 프로젝트명 | Whame 프로젝트 (이미지 분석 데이터 웹 서비스) |
-| :-----: | ----- |
-| 개발환경 | Chrome59, Window10, Eclipse, SpringMVC, Maven, Tomcat |
-| 사용 DB | OracleDB, MySQL, AWS S3, AWS RDS |
-| Lang/Tools | Github, Javascript, HTML5, CSS, Java, Ajax |
-| 사용기술 | OpenCV, GoogleVision, Kakao, Facebook, Daum API |
-| 프로젝트 소개 | 인터넷 상에 음식점에 대한 수많은 메뉴와 후기 정보가 존재하고 있어 사용자는 얻고자 하는 정보를 찾는데 어려움이 있었습니다.<br> Whame 서비스는 사용자가 음식점 **간판을 촬영하면 촬영한 이미지를 분석하여** 해당 음식점 메뉴 및 가격 정보 등을 손쉽게 제공하는 서비스입니다.<br> 정확한 음식점 메뉴 및 정보 데이터를 제공하기 위해 API를 사용하였습니다. 사용자가 찍은 음식점 간판 사진을 **OpenCV 와핑기법과 Canny를 사용하여 간판의 범위만을 추출하였습니다.** **GoogleVision을 이용하여** 가공된 사진에 있는 **텍스트와 컬러 데이터를 분석하였습니다.** 최종적으로 분석한 데이터를 Daum지도를 사용하여 실시간으로 사용자 반경 100m 범위 내에데이터베이스에 저장된 음식점 정보와 매칭되는 결과를 찾아 정보를 제공하여 정확도를 향상시켰습니다.<br> Whame 서비스는 웹, 모바일 웹 환경에서 원활한 사용이 가능하도록 반응형 웹으로 구현하였으며, **디자인 프레임워크로 Materialize를** 사용하였습니다. 어플리케이션의 전체구조는 Spring MVC프레임워크를 사용하여 구현하였습니다.<br> 사용자는 로그인 시 별도의 회원가입 없이 **Kakao, Facebook 계정 연동으로** 접속이 가능하도록 구현하였으며, 음식점에 대한 정보 및 위치를 카톡으로 **서로 공유할 수 있는 링크기능을 구현하였습니다.** <br> 사용자가 원하는 음식을 검색하면 주변에 있는 해당되는 음식점 정보를 제공하도록 **Ajax를 사용하여 비동기처리로 검색기능을 구현하였습니다.** <br> 추가적으로 사이트 구현에 필요한 히스토리, 음식점 등록, 이벤트 처리, 쿠폰 및 일정 기능과 같이 구현에 필요한 기본적인 요소를 구현하였습니다. |
+
+#### [Today 프로젝트](https://github.com/nttejun/Today) ([영상](https://youtu.be/w9TuLOraEW0))
+##### 프로젝트 기간 : 2017.09.20 - 2017.10.04 (기간 중 10일)
+##### 개발인원 : 1명
+
+| 구분 | 사용기술 |
+| ----- | ----- |
+| WebFrontend | JS, HTML5, CSS, jQuery |
+| WebBackend | Java, Ajax |
+| Database | MySQL |
+| Framework / Library | AWS EC2, Bootstrap |
+| Tool | bower |
+
+#### 프로젝트 목적
+- 웹 애플리케이션 서버 작동원리 이해, 작동원리 과정을 실습
+    - 완료 : 브라우저 요청을 처리하는 Servlet, MySQL 데이터베이스 연결 및 작업을 위한 JDBC 코드 구현
+- 기본 기능 로그인, 글 등록, 댓글 추가 수정 삭제, 비동기 처리 구현
+    - 완료 : Ajax를 사용하여 로그인, 글 등록 비동기로 작동
+- 리눅스에 접속해서 EC2 인스턴스 IP 주소를 사용하여 프로젝트 접속 : 완료
+
+
+<br>
+
+#### [Whame 프로젝트](https://github.com/nttejun/WhameProject) ([영상](https://youtu.be/eAeVGDenO10))
+##### 프로젝트 기간 : 2017.03 - 2017.06 (3개월)
+##### 개발인원 : 4명
+
+| 구분 | 사용기술 |
+| ----- | ----- |
+| WebFrontend | JS, HTML5, CSS, jQuery |
+| WebBackend | Java, Ajax |
+| Database | Oracle, MySQL, AWS S3, AWS RDS |
+| Framework / Library | Spring, Daum Maps, KakaoAPI, AWS EC2, Materialize |
+| Tool | Maven, Github |
+| 내용 | 인터넷 상에 음식점에 대한 수많은 메뉴와 후기 정보가 존재하고 있어 사용자는 얻고자 하는 정보를 찾는데 어려움이 있었습니다.<br> Whame 서비스는 사용자가 음식점 **간판을 촬영하면 촬영한 이미지를 분석하여** 해당 음식점 메뉴 및 가격 정보 등을 손쉽게 제공하는 서비스입니다.<br> 정확한 음식점 메뉴 및 정보 데이터를 제공하기 위해 API를 사용하였습니다. 사용자가 찍은 음식점 간판 사진을 **OpenCV 와핑기법과 Canny를 사용하여 간판의 범위만을 추출하였습니다.** **GoogleVision을 이용하여** 가공된 사진에 있는 **텍스트와 컬러 데이터를 분석하였습니다.** 최종적으로 분석한 데이터를 Daum지도를 사용하여 실시간으로 사용자 반경 100m 범위 내에데이터베이스에 저장된 음식점 정보와 매칭되는 결과를 찾아 정보를 제공하여 정확도를 향상시켰습니다.<br> Whame 서비스는 웹, 모바일 웹 환경에서 원활한 사용이 가능하도록 반응형 웹으로 구현하였으며, **디자인 프레임워크로 Materialize를** 사용하였습니다. 어플리케이션의 전체구조는 Spring MVC프레임워크를 사용하여 구현하였습니다.<br> 사용자는 로그인 시 별도의 회원가입 없이 **Kakao, Facebook 계정 연동으로** 접속이 가능하도록 구현하였으며, 음식점에 대한 정보 및 위치를 카톡으로 **서로 공유할 수 있는 링크기능을 구현하였습니다.** <br> 사용자가 원하는 음식을 검색하면 주변에 있는 해당되는 음식점 정보를 제공하도록 **Ajax를 사용하여 비동기처리로 검색기능을 구현하였습니다.** <br> 추가적으로 사이트 구현에 필요한 히스토리, 음식점 등록, 이벤트 처리, 쿠폰 및 일정 기능과 같이 구현에 필요한 기본적인 요소를 구현하였습니다. |
 
 <br>
 
@@ -26,33 +66,6 @@ Whame 프로젝트에서 저는 팀장으로 팀원들 간의 원활한 소통�
 사용자가 메뉴를 검색하면 해당되는 음식점 정보를 제공하는 검색기능을 구현하였으며, jsp파일 내 자바 코드를 사용하지 않으면서 페이지 이동없이 **빠르게 검색결과를 제공할 수 있는 비동기 Ajax 통신을 사용하였습니다** <br>
 프로젝트를 하면서 **추후에 코드 수정이 용이 하도록 만들기 위해 객체는 하나의 기능만 처리할 수 있도록 구현하였으며 변수를 선언하면 이름만으로 어떤 결과를 얻을 수 있는지 유추할 수 있도록 코드를 작성하기 위해 노력하였습니다.** <br>
 개발환경은 **Windows 10에서 eclipse, tomcat, spring MVC, maven 을** 사용하며 사용자의 **이미지를 저장하기 위한 Amazon S3 스토리지** 서비스와 오라클DB와 **항상 연결 가능한 환경을 위해 Amazon RDS를 사용하였습니다.** <br>
-
----
-
-<br>
-
-### 개인 프로필
-
-<img src="./img/profile.jpg" style="vertical-align:text-top" width="160" height="210" >
-
-**Wonjun Jeong Site** <br>
-Link : [Github (http://github.com/nttejun)](https://github.com/nttejun/nttejun.github.io/tree/master/portfolio)<br>
-Link : [Blog (http://wjun.tistory.com/)](http://wjun.tistory.com/)<br>
-Link : [Facebook (https://www.facebook.com/nttejun)](https://www.facebook.com/nttejun) <br>
-Email : nttejun@gmail.com<br>
-phone : 010-5516-4192<br>
-
-<br>
-
-| 기간 | 프로젝트 |
-| :----: | :----: |
-| 2017.07 - 2017.08 | Youtube Download 프로젝트 (진행중) |
-| 2017.03 - 2017.06 | 이미지분석 프로젝트 (진행완료) [(데모영상)](https://youtu.be/eAeVGDenO10) |
-
-| 기간 | 이력 |
-| :----: | :----: |
-| 2017.01 - 2017.06  |  비트교육센터 웹 표준/프레임워크 과정 (수료) |
-| 2011.03 - 2018.02  |  순천향대학교 국제통상학과 (2018년 02월 졸업예정) |
 
 ---
 <br>
@@ -115,4 +128,21 @@ Kakao, Daum, 이미지 분석 등의 API를 사용하였습니다. 위치기반,
 개발자의 삶을 걸어가며 3 년, 5 년 뒤는 제가 목표한 좋은 개발자가 되는 초석을 다져 제가 작성 한 코드가 다른 사람들에게 구현 시 도움이 될 수 있도록 또는 올바른 코드를 작성하는 방법을 주변에 지식을 공유할 수 있는 단계의 개발자가 되는 것을 목표로 꾸준히 노력하고 있는 개발자 입니다.
 
 ---
- 
+
+### Profile
+
+<img src="./img/profile.jpg" style="vertical-align:text-top" width="160" height="210" >
+
+**Wonjun Jeong Site** <br>
+Link : [Github (http://github.com/nttejun)](https://github.com/nttejun/nttejun.github.io/tree/master/portfolio)<br>
+Link : [Blog (http://wjun.tistory.com/)](http://wjun.tistory.com/)<br>
+Link : [Facebook (https://www.facebook.com/nttejun)](https://www.facebook.com/nttejun) <br>
+Email : nttejun@gmail.com<br>
+phone : 010-5516-4192<br>
+
+<br>
+
+| 기간 | 이력 |
+| :----: | :----: |
+| 2017.01 - 2017.06  |  비트교육센터 웹 표준/프레임워크 과정 (수료) |
+| 2011.03 - 2018.02  |  순천향대학교 국제통상학과 (2018년 02월 졸업예정) |
