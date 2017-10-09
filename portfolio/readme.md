@@ -10,21 +10,22 @@
 
 <br>
 
-![stackImage](./img/stackImage.png)
-
-<br>
+## 프로젝트 경력사항 <br>
 
 | 기간 | 프로젝트 |
 | :----: | :----: |
 | 2017.09.20 - 2017.10.04 (기간 중 10일) | [Today Project](https://youtu.be/w9TuLOraEW0) |
 | 2017.03 - 2017.06 (3개월) | [Whame Project](https://youtu.be/eAeVGDenO10) |
 
+![stackImage](./img/stackImage.png)
 
-### 프로젝트 경력사항 <br>
+<br>
 
-#### [Today 프로젝트](https://github.com/nttejun/Today) ([영상](https://youtu.be/w9TuLOraEW0))
-##### 프로젝트 기간 : 2017.09.20 - 2017.10.04 (기간 중 10일)
-##### 개발인원 : 1명
+## 프로젝트 내용 <br>
+
+### [Today 프로젝트](https://github.com/nttejun/Today) ([영상](https://youtu.be/w9TuLOraEW0))
+#### 프로젝트 기간 : 2017.09.20 - 2017.10.04 (기간 중 10일)
+#### 개발인원 : 1명
 
 | 구분 | 사용기술 |
 | ----- | ----- |
@@ -34,19 +35,19 @@
 | Framework / Library | AWS EC2, Bootstrap |
 | Tool | bower |
 
-#### 프로젝트 목적
-- 웹 애플리케이션 서버 작동원리 이해, 작동원리 과정을 실습
+### 프로젝트 목적
+- 웹 애플리케이션 서버 작동원리 이해, 작동원리 과정 실습
     - 완료 : 브라우저 요청을 처리하는 Servlet, MySQL 데이터베이스 연결 및 작업을 위한 JDBC 코드 구현
 - 기본 기능 로그인, 글 등록, 댓글 추가 수정 삭제, 비동기 처리 구현
-    - 완료 : Ajax를 사용하여 로그인, 글 등록 비동기로 작동
+    - 완료 : Ajax를 사용하여 로그인, 글 등록 비동기 처리
 - 리눅스에 접속해서 EC2 인스턴스 IP 주소를 사용하여 프로젝트 접속 : 완료
 
 
 <br>
 
-#### [Whame 프로젝트](https://github.com/nttejun/WhameProject) ([영상](https://youtu.be/eAeVGDenO10))
-##### 프로젝트 기간 : 2017.03 - 2017.06 (3개월)
-##### 개발인원 : 4명
+### [Whame 프로젝트](https://github.com/nttejun/WhameProject) ([영상](https://youtu.be/eAeVGDenO10))
+#### 프로젝트 기간 : 2017.03 - 2017.06 (3개월)
+#### 개발인원 : 4명
 
 | 구분 | 사용기술 |
 | ----- | ----- |
