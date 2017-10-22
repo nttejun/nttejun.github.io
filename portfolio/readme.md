@@ -14,7 +14,7 @@
 
 ## 프로젝트 경력사항 <br>
 
-![stackimage](./img/stackImage.png)
+![stackimage](./img/stackimage.png)
 
 <br>
 
