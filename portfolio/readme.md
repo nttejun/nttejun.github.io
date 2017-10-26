@@ -32,9 +32,9 @@
 | 구분 | 사용기술 |
 | ----- | ----- |
 | WebFrontend | JS, HTML5, CSS, jQuery |
-| WebBackend | Java, Ajax |
+| WebBackend | Java, Ajax, AWS EC2 |
 | Database | MySQL |
-| Framework / Library | AWS EC2, Bootstrap |
+| Framework / Library | Bootstrap |
 | Tool | bower |
 
 <br>
@@ -56,9 +56,9 @@
 | 구분 | 사용기술 |
 | ----- | ----- |
 | WebFrontend | JS, HTML5, CSS, jQuery |
-| WebBackend | Java, Ajax |
+| WebBackend | Java, Ajax, AWS EC2 |
 | Database | Oracle, MySQL, AWS S3, AWS RDS |
-| Framework / Library | Spring, Daum Maps, KakaoAPI, AWS EC2, Materialize |
+| Framework / Library | Spring, Daum Maps, KakaoAPI, Materialize, OpenCV, GoogleVision |
 | Tool | Maven, Github |
 | 내용 | 사용자가 음식점 **간판을 촬영하면 촬영한 이미지를 분석하여** 해당 음식점 메뉴 및 가격 정보 등을 손쉽게 제공하는 서비스입니다.<br> 음식점 정보는 사용자가 찍은 음식점 간판을 **OpenCV API 와핑기법과 Canny를 사용하여 간판의 범위만을 추출합니다.** **GoogleVision을 이용하여** 추출한 사진에 있는 **텍스트를 분석하였습니다.** 최종 분석된 데이터는 DaumMap을 사용하여 사용자 반경 100m 내 데이터베이스에 저장된 음식점 정보를 제공하여 정확도를 향상시켰습니다.<br> 웹, 모바일 웹 환경에서 사용이 가능하도록 반응형 웹으로 구현하였으며, **디자인 프레임워크 Materialize를** 사용하였습니다. 애플리케이션의 구조는 Spring MVC를 사용하였습니다.<br> 사용자는 로그인 시 별도의 회원가입 없이 **Kakao, Facebook 계정 연동으로** 접속이 가능하도록 구현하였으며, 음식점 정보 및 위치를 카톡으로 **공유할 수 있는 링크기능을 구현하였습니다.** <br> 사용자가 원하는 음식을 검색하면 주변 음식점 정보를 **Ajax를 사용하여 검색기능을 구현하였습니다.** <br> 추가적으로 사이트 구현에 필요한 히스토리, 음식점 등록, 이벤트 처리, 쿠폰 및 일정 등 기본적인 서비스 기능을 구현하였습니다. |
 
