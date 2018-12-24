@@ -7,7 +7,19 @@
 
 ## 주니어 개발자
 - 티모넷 클라우드 보안토큰 서비스의 개발 및 운영 업무를 담당하고 있습니다.
-- 최근 관심사는 백엔드 개발 하나에 미쳐있는 주니어 개발자입니다.
+- 최근 관심사는 백엔드 개발 하나에 빠져있는 주니어 개발자입니다.
+
+<br>
+
+## 기술 스택
+ 
+| 구분 | 내용 |
+| :----: | :----: |
+| Language | Java, Javascript |
+| Front-end | HTML, CSS |
+| Back-end | Spring (Spring boot), JPA |
+| Data | Oracle, MySQL |
+| Etc | AWS (EC2, RDS), Github, Bitbucket, Intellij |
 
 <br>
 
@@ -79,7 +91,7 @@
 | 2018.09 - 2018.10 (10일) | StarterAPI | 
 | 2018.07.20 - 2018.07.21 (2일) | AWS 상담챗봇 |
 | 2017.09 - 2017.10 (10일) | [Today](https://youtu.be/w9TuLOraEW0) |
-| 2017.03 - 2017.06 (3개월) | [Whame](https://youtu.be/eAeVGDenO10) |
+| 2017.03 - 2017.06 (3개월) | [WhatMenu](https://youtu.be/eAeVGDenO10) |
 
 <br>
 
