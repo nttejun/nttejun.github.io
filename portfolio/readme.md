@@ -104,7 +104,7 @@ Edu (진행 중)
 
 Starter
 
-    - Spring boot 기반의 AWS EC2, AWS RDS(MySQL) 사용하여 간단한 게시판 API 개발
+    - Spring boot 기반의 AWS EC2, AWS RDS(MySQL) 사용하여 게시판 API 개발
 
 AWS 상담챗봇
 
@@ -112,7 +112,7 @@ AWS 상담챗봇
 
 Today
 
-    - JSP, Servlet 기반의 최근 이슈를 등록하는 웹 서비스 개발
+    - JSP, Servlet 기반의 최근 이슈 공유하는 웹 서비스 개발
 
 WhatMenu
 
