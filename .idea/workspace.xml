@@ -2,8 +2,105 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7275f74a-b150-430f-9ab8-08fff391bee9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/backup.gitignore" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/nttejun.github.io.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d1efe74cf3cd794a2c67cd87f9e244af5646f10" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/f/6fc11893b19b961b4d82dcd872470a941355af20" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/0941639098349d0a73a44f4f37efcd993e356e17/_breakpoint.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/0941639098349d0a73a44f4f37efcd993e356e17/_context.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/0941639098349d0a73a44f4f37efcd993e356e17/_helpers.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/0941639098349d0a73a44f4f37efcd993e356e17/_legacy-settings.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/0941639098349d0a73a44f4f37efcd993e356e17/_no-query.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/0941639098349d0a73a44f4f37efcd993e356e17/_parsers.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/0941639098349d0a73a44f4f37efcd993e356e17/_respond-to.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/0941639098349d0a73a44f4f37efcd993e356e17/_settings.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/23e20900b214188d7587441b84621254d12a62a3/_magnific-popup.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/23e20900b214188d7587441b84621254d12a62a3/_settings.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/24ead71f7d9dc8c829ac64f71fcaa70b21313407/_resolution.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/2dd2a221257be1e741e5f194c7c36e8727265271/_susy-prefix.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/2dd2a221257be1e741e5f194c7c36e8727265271/_susy.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/4234e04a82acda2a1f7cc46400be367b2e94c62d/_animations.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/4234e04a82acda2a1f7cc46400be367b2e94c62d/_archive.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/4234e04a82acda2a1f7cc46400be367b2e94c62d/_base.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/4234e04a82acda2a1f7cc46400be367b2e94c62d/_buttons.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/4234e04a82acda2a1f7cc46400be367b2e94c62d/_footer.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/4234e04a82acda2a1f7cc46400be367b2e94c62d/_forms.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/4234e04a82acda2a1f7cc46400be367b2e94c62d/_masthead.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/4234e04a82acda2a1f7cc46400be367b2e94c62d/_mixins.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/4234e04a82acda2a1f7cc46400be367b2e94c62d/_navigation.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/4234e04a82acda2a1f7cc46400be367b2e94c62d/_notices.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/4234e04a82acda2a1f7cc46400be367b2e94c62d/_page.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/4234e04a82acda2a1f7cc46400be367b2e94c62d/_print.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/4234e04a82acda2a1f7cc46400be367b2e94c62d/_reset.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/4234e04a82acda2a1f7cc46400be367b2e94c62d/_search.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/4234e04a82acda2a1f7cc46400be367b2e94c62d/_sidebar.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/4234e04a82acda2a1f7cc46400be367b2e94c62d/_syntax.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/4234e04a82acda2a1f7cc46400be367b2e94c62d/_tables.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/4234e04a82acda2a1f7cc46400be367b2e94c62d/_utilities.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/4234e04a82acda2a1f7cc46400be367b2e94c62d/_variables.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/84518a55d04bdc25b1e4d65be6fc252c1356d8a4/_default.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/8f1ead6d860bd9305048ab7cc2fac31d6d2be2dd/minimal-mistakes.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/93c11119432faf3f39300271f680c068e8f51071/_api.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/93c11119432faf3f39300271f680c068e8f51071/_normalize.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/93c11119432faf3f39300271f680c068e8f51071/_parse.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/93c11119432faf3f39300271f680c068e8f51071/_settings.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/93c11119432faf3f39300271f680c068e8f51071/_su-math.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/93c11119432faf3f39300271f680c068e8f51071/_su-validate.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/93c11119432faf3f39300271f680c068e8f51071/_syntax-helpers.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/93c11119432faf3f39300271f680c068e8f51071/_unprefix.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/93c11119432faf3f39300271f680c068e8f51071/_utilities.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/b14e37b9e05e7ba3c66a0e218adb05e8fc0dff13/_double.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/b14e37b9e05e7ba3c66a0e218adb05e8fc0dff13/_query.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/b14e37b9e05e7ba3c66a0e218adb05e8fc0dff13/_resolution.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/b14e37b9e05e7ba3c66a0e218adb05e8fc0dff13/_single.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/b14e37b9e05e7ba3c66a0e218adb05e8fc0dff13/_triple.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/c62398db9563b1f0a0b285daadb67607450f211e/_default.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/ea3191304c88f2734889f899073ff4432c661f79/_default-pair.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/ea3191304c88f2734889f899073ff4432c661f79/_default.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/ea3191304c88f2734889f899073ff4432c661f79/_double-string.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/f0309aca55e7c5cbc403792e03867178b85b2799/_default.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/404.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-04-21-welcome-to-jekyll.markdown" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/404.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/about/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/css/main.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/js/_main.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/js/lunr/lunr-en.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/js/lunr/lunr-gr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/js/lunr/lunr-store.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/js/lunr/lunr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/js/lunr/lunr.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/js/main.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/js/plugins/gumshoe.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/js/plugins/jquery.ba-throttle-debounce.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/js/plugins/jquery.fitvids.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/js/plugins/jquery.greedy-navigation.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/js/plugins/jquery.magnific-popup.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/js/plugins/smooth-scroll.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/js/vendor/jquery/jquery-3.3.1.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/backup.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/jekyll/update/2019/04/21/welcome-to-jekyll.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/portfolio/img/profile.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/portfolio/readme.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/robots.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/about.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/backup.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/index.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portfolio/img/profile.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portfolio/readme.md" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -125,10 +222,10 @@
             <state relative-caret-position="330">
               <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding>
-                <marker date="1556331639077" expanded="true" signature="1412:1635" ph="..." />
-                <marker date="1556331639077" expanded="true" signature="1485:1518" ph="{...}" />
-                <marker date="1556331639077" expanded="true" signature="1542:1625" ph="{...}" />
-                <marker date="1556331639077" expanded="false" signature="1906:1916" ph="..." />
+                <marker date="1556331812028" expanded="true" signature="1412:1635" ph="..." />
+                <marker date="1556331812028" expanded="true" signature="1485:1518" ph="{...}" />
+                <marker date="1556331812028" expanded="true" signature="1542:1625" ph="{...}" />
+                <marker date="1556331812028" expanded="false" signature="1906:1916" ph="..." />
               </folding>
             </state>
           </provider>
@@ -206,34 +303,6 @@
             <path>
               <item name="nttejun.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="nttejun.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nttejun.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nttejun.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nttejun.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nttejun.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_site" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nttejun.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nttejun.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_site" type="462c0819:PsiDirectoryNode" />
-              <item name="about" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nttejun.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nttejun.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_site" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nttejun.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nttejun.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_site" type="462c0819:PsiDirectoryNode" />
-              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="nttejun.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -395,16 +464,15 @@
       <workItem from="1555829983888" duration="2507000" />
       <workItem from="1555839588903" duration="272000" />
       <workItem from="1556196665752" duration="1240000" />
-      <workItem from="1556287157571" duration="2080000" />
+      <workItem from="1556287157571" duration="2400000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75534000" />
+    <option name="totallyTimeSpent" value="75854000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="23" width="1440" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -418,7 +486,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14578006" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27825466" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27825466" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -501,10 +569,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1556331639077" expanded="true" signature="1412:1635" ph="..." />
-            <marker date="1556331639077" expanded="true" signature="1485:1518" ph="{...}" />
-            <marker date="1556331639077" expanded="true" signature="1542:1625" ph="{...}" />
-            <marker date="1556331639077" expanded="false" signature="1906:1916" ph="..." />
+            <marker date="1556331812028" expanded="true" signature="1412:1635" ph="..." />
+            <marker date="1556331812028" expanded="true" signature="1485:1518" ph="{...}" />
+            <marker date="1556331812028" expanded="true" signature="1542:1625" ph="{...}" />
+            <marker date="1556331812028" expanded="false" signature="1906:1916" ph="..." />
           </folding>
         </state>
       </provider>
@@ -603,10 +671,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1556331639077" expanded="true" signature="1412:1635" ph="..." />
-            <marker date="1556331639077" expanded="true" signature="1485:1518" ph="{...}" />
-            <marker date="1556331639077" expanded="true" signature="1542:1625" ph="{...}" />
-            <marker date="1556331639077" expanded="false" signature="1906:1916" ph="..." />
+            <marker date="1556331812028" expanded="true" signature="1412:1635" ph="..." />
+            <marker date="1556331812028" expanded="true" signature="1485:1518" ph="{...}" />
+            <marker date="1556331812028" expanded="true" signature="1542:1625" ph="{...}" />
+            <marker date="1556331812028" expanded="false" signature="1906:1916" ph="..." />
           </folding>
         </state>
       </provider>
@@ -795,10 +863,10 @@
         <state relative-caret-position="330">
           <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
-            <marker date="1556331639077" expanded="true" signature="1412:1635" ph="..." />
-            <marker date="1556331639077" expanded="true" signature="1485:1518" ph="{...}" />
-            <marker date="1556331639077" expanded="true" signature="1542:1625" ph="{...}" />
-            <marker date="1556331639077" expanded="false" signature="1906:1916" ph="..." />
+            <marker date="1556331812028" expanded="true" signature="1412:1635" ph="..." />
+            <marker date="1556331812028" expanded="true" signature="1485:1518" ph="{...}" />
+            <marker date="1556331812028" expanded="true" signature="1542:1625" ph="{...}" />
+            <marker date="1556331812028" expanded="false" signature="1906:1916" ph="..." />
           </folding>
         </state>
       </provider>
