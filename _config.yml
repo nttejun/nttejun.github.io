@@ -19,10 +19,10 @@ plugins:
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "오늘 한 줄"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Won Jun"
+description              : ""
 url                      : "http://nttejun.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
