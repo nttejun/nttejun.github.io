@@ -37,8 +37,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_site/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="4567" column="15" lean-forward="false" selection-start-line="4567" selection-start-column="15" selection-end-line="4567" selection-end-column="15" />
+            <state relative-caret-position="207">
+              <caret line="506" column="0" lean-forward="true" selection-start-line="506" selection-start-column="0" selection-end-line="506" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -169,6 +169,7 @@
       <find>.author__urls</find>
       <find>.author__urls li</find>
       <find>author__urls-wrapper</find>
+      <find>.html</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -399,12 +400,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556356402403</updated>
-      <workItem from="1556356403630" duration="16650000" />
+      <workItem from="1556356403630" duration="16783000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16650000" />
+    <option name="totallyTimeSpent" value="16783000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -417,6 +418,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="376" y="23" width="1019" height="862" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985657" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -804,8 +806,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_site/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="4567" column="15" lean-forward="false" selection-start-line="4567" selection-start-column="15" selection-end-line="4567" selection-end-column="15" />
+        <state relative-caret-position="207">
+          <caret line="506" column="0" lean-forward="true" selection-start-line="506" selection-start-column="0" selection-end-line="506" selection-end-column="0" />
           <folding />
         </state>
       </provider>
