@@ -181,7 +181,8 @@
 
 .author__urls-wrapper {
   position: relative;
-  display: table-cell;
+  display: none;
+  //display: table-cell;
   vertical-align: middle;
   font-family: $sans-serif;
   z-index: 10;
