@@ -545,10 +545,10 @@ To assign more author links, add to the `author.links` array  in [`_config.yml`]
 
 ```yaml
 author:
-  name: "Your Name"
+  name: "주니어 개발자"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "I am an amazing person."
-  location: "Somewhere"
+  bio: ""
+  location: ""
   links:
     - label: "Made Mistakes"
       icon: "fas fa-fw fa-link"

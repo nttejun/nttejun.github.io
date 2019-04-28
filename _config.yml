@@ -21,7 +21,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "메모하고 개발하기"
+title                    : "메모하며 개발하기"
 title_separator          : "-"
 name                     : "Won jun"
 description              : "An amazing website."
