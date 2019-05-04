@@ -77,6 +77,7 @@ Software Engineer</h3><br>
 <br>
 
 <h1>업무적 강점</h1>
+---
 - 서비스 개발에서 운영까지의 업무 프로세스 경험
 - Spring, Vert.x 프레임워크 사용 경험
 
@@ -120,7 +121,6 @@ Software Engineer</h3><br>
 
 <h1>개인 프로젝트</h1>
 ---
-<br>
 
 <b>Starter</b><br>
 2018.09 - 2018.10
