@@ -1,17 +1,14 @@
 
-<h2>정원준</h2>
-
----
+<h1>정원준</h1>
 
 - 이메일 : nttejun@gmail.com
 
 <br>
 
-<h2>경력 & 프로젝트</h2>
----
+<h1>경력 & 프로젝트</h1>
 
 <h3>티모넷 - 1년 5개월차<br>
-Software Engineer</h3>
+Software Engineer</h3><br>
 
 -  <b>2018.10 - 현재 담당업무</b><br>
 <b>클라우드 보안토큰 서비스 운영 업무</b>
@@ -72,22 +69,20 @@ Software Engineer</h3>
     <br>
 
 
-### 주니어 개발자
----
+<h1> 주니어 개발자</h1>
 - 현재 티모넷에서 클라우드 보안토큰 서비스의 개발, 운영 업무를 담당하고 있습니다.
 - 개인적으로 학습한 내용을 업무에 어떻게 적용할 수 있는지 고민합니다.
 
 <br>
 
-### 업무적 강점
----
+<h1>업무적 강점</h1>
 - 서비스 개발에서 운영까지의 업무 프로세스 경험
 - Spring, Vert.x 프레임워크 사용 경험
 
 
 <br>
 
-### 기술 스택
+<h1>기술 스택</h1>
 ---
 
 | 구분 | 내용 |
@@ -100,8 +95,7 @@ Software Engineer</h3>
 
 <br>
 
-### 간단한 소개
----
+<h1>간단한 소개</h1>
 1. 학습에 대한 동기부여
     - 학습한 내용은 Github에 정리합니다.
         - https://github.com/nttejun
@@ -123,27 +117,26 @@ Software Engineer</h3>
 <br>
 
 
-### 개인 프로젝트
----
+<h1>개인 프로젝트</h1>
 
 <br>
 
-**Starter**<br>
+<b>Starter</b><br>
 2018.09 - 2018.10
 
     - Spring boot 기반의 AWS EC2, AWS RDS(MySQL) 사용하여 게시판 API 개발
 
-**AWS 상담챗봇**<br>
+<b>AWS 상담챗봇</b><br>
 2018.07.20 - 2018.07.21
 
     - Spring 기반의 AWS 상담 챗봇 개발 (개발 인원 - 3명)
 
-**[Today](https://youtu.be/w9TuLOraEW0)**<br>
+<b>[Today](https://youtu.be/w9TuLOraEW0)</b><br>
 2017.09 - 2017.10
 
     - JSP, Servlet 사용하여 최근 이슈 등록하는 웹 서비스 개발
 
-**[WhatMenu](https://youtu.be/eAeVGDenO10)**<br>
+<b>[WhatMenu](https://youtu.be/eAeVGDenO10)</b><br>
 2017.03 - 2017.06
 
     - 개발자가 음식점 간판 사진을 찍으면 Google Vision, OpenCV 이용하여 음식점 정보를 제공하는 웹 서비스 개발 (개발 인원 - 4명)
