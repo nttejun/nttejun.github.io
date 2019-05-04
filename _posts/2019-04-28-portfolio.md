@@ -125,14 +125,20 @@ Software Engineer</h3><br>
 <b>Starter</b><br>
 2018.09 - 2018.10
  - Spring boot 기반의 AWS EC2, AWS RDS(MySQL) 사용하여 게시판 API 개발
+ 
+<br>
 
 <b>AWS 상담챗봇</b><br>
 2018.07.20 - 2018.07.21
  - Spring 기반의 AWS 상담 챗봇 개발 (개발 인원 - 3명)
 
+<br>
+
 <b>[Today](https://youtu.be/w9TuLOraEW0)</b><br>
 2017.09 - 2017.10
  - JSP, Servlet 사용하여 최근 이슈 등록하는 웹 서비스 개발
+
+<br>
 
 <b>[WhatMenu](https://youtu.be/eAeVGDenO10)</b><br>
 2017.03 - 2017.06
