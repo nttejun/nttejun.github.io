@@ -3,10 +3,13 @@
 - 이메일 : nttejun@gmail.com
 
 <br>
+<br>
 
 <h1>경력 & 프로젝트</h1>
 <h3>티모넷 - 1년 5개월차<br>
-Software Engineer</h3><br>
+Software Engineer</h3>
+
+<br>
 
 -  <b>2018.10 - 현재 담당업무</b><br>
 <b>클라우드 보안토큰 서비스 운영 업무</b>
@@ -71,18 +74,20 @@ Software Engineer</h3><br>
     </p>
     <br>
 
+<br>
 
 <h1> 주니어 개발자</h1>
 - 현재 티모넷에서 클라우드 보안토큰 서비스의 개발, 운영 업무를 담당하고 있습니다.
 - 개인적으로 학습한 내용을 업무에 어떻게 적용할 수 있는지 고민합니다.
 
 <br>
+<br>
 
 <h1>업무적 강점</h1>
 - 서비스 개발에서 운영까지의 업무 프로세스 경험
 - Spring, Vert.x 프레임워크 사용 경험
 
-
+<br>
 <br>
 
 <h1>기술 스택</h1>
@@ -95,6 +100,7 @@ Software Engineer</h3><br>
 | Data | Oracle, MySQL |
 | Etc | AWS (EC2, RDS), Github, Gitlab, Bitbucket, Intellij |
 
+<br>
 <br>
 
 <h1>간단한 소개</h1>
@@ -116,6 +122,7 @@ Software Engineer</h3><br>
     - 개발하면서 겪은 시행착오나 학습 내용은 블로그에 조금씩이라도 게시합니다.
         - 개인 블로그 - https://wjjeong.tistory.com/
 
+<br>
 <br>
 
 
