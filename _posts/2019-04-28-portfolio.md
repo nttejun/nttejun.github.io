@@ -15,7 +15,8 @@ Software Engineer</h3>
 <b>클라우드 보안토큰 서비스 운영 업무</b>
 
     <p>
-    SMS 휴대폰본인인증 기능 개발 
+    Vert.x 기반 기능 개발<br>
+    SMS 휴대폰본인인증
     </p>
     
     <p>
@@ -27,7 +28,7 @@ Software Engineer</h3>
     <p>
     Vert.x 기반 백엔드 유지보수<br>
     백오피스 - 관리자 모듈<br>
-    프록시, 인증 서버 모듈<br>
+    프록시, 인증, 앱 위변조 모듈<br>
     </p>
     
     <p>
@@ -46,8 +47,12 @@ Software Engineer</h3>
 <b>클라우드 보안토큰 서비스 웹 앱 개발 업무</b>
 
     <p>
-    Non-ActiveX 전자서명 라이브러리(javascript) 수정 개발
+    전자서명 NX툴킷(javascript) 수정 개발
     </p>
+    
+    <p>
+    보안토큰 클라이언트 개발
+    </p>    
 
     <p>
     이지싸인 서비스 웹 뷰 전체 리뉴얼<br>
