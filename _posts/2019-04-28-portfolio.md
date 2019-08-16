@@ -47,7 +47,8 @@ Software Engineer</h3>
 <b>클라우드 보안토큰 서비스 웹 앱 개발 업무</b>
 
     <p>
-    전자서명 NX툴킷(javascript) 수정 개발
+    전자서명 Non-ActiveX 툴킷(javascript 기반) 수정 개발<br>
+    툴킷 전자서명 API 수정, XML 데이터 파싱 API 개발
     </p>
     
     <p>
