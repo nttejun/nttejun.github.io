@@ -48,7 +48,7 @@ Software Engineer</h3>
 
     <p>
     전자서명 Non-ActiveX 툴킷(javascript 기반) 수정 개발<br>
-    툴킷 전자서명 API 수정, XML 데이터 파싱 API 개발
+    툴킷 전자서명 API 수정, XML 데이터 파싱
     </p>
     
     <p>
