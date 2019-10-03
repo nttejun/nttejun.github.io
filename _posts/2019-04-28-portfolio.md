@@ -145,11 +145,11 @@ Software Engineer</h3>
         - 2017.09 - 2017.11 <br>
         교내 알고리즘 스터디
     - 개인적인 시간은 만들고 싶은 서비스, 관심 있는 기술을 사용하여 개발하는 것을 좋아합니다.
-        - 개인 프로젝트 진행 (SpringBoot, JPA, TDD 연습)
+        - 개인 프로젝트 진행 (최근 관심사 SpringBoot, JPA, TDD 연습)
         - 해커톤(AWS KRUG) 참가
         
 2. 메모와 기록을 습관화
-    - 모든 업무 내용은 메모합니다. 태스크, 타임 테이블 작성으로 개인 일정을 관리합니다.
+    - 모든 업무 내용은 메모합니다. 태스크, 타임 테이블 개인 일정을 관리합니다.
     - 공부하고 개발하는 과정에서 생각한 내용은 정리하여 더 나은 개발자가 되기 위해 고민합니다.
 
 <br>
@@ -161,7 +161,7 @@ Software Engineer</h3>
 <b>Starter</b><br>
 2018.09 - 2018.10<br>
 Spring boot 기반의 AWS EC2, AWS RDS(MySQL) 사용하여 게시판 API 개발
- 
+
 <br>
 
 <b>AWS 상담챗봇</b><br>
@@ -180,20 +180,14 @@ Spring 기반의 AWS 상담 챗봇 개발 (개발 인원 - 3명)
 <h1>개인 프로필</h1>
 ---
 
-<p>
-학력<br>
-    2011.03 - 2018.02<br>
-    <b>Soonchunhyang University</b><br>
+<h4>학력</h4>
+    <b>Soonchunhyang University</b> 2011.03 - 2018.02<br>
     국제통상학과 (컴퓨터소프트웨어 공학 전과)<br>
-<br>
-    2008.03 - 2011.02<br>
-    <b>무원고등학교</b>
-</p>
+    <br>
+    <b>무원고등학교</b> 2008.03 - 2011.02<br>
 
 <br>
 
-<p>
-링크<br>
+<h4>링크</h4>
     https://github.com/nttejun<br>
     https://wjjeong.tistory.com/ (https://wjun.tistory.com/)
-</p>
