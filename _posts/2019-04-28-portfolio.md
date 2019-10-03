@@ -187,15 +187,13 @@ Software Engineer</h3>
 <b>Starter</b><br>
 2018.09 - 2018.10<br>
 Spring boot 기반의 AWS EC2, AWS RDS(MySQL) 사용하여 게시판 API 개발
-
 <br>
-
+<br>
 <b>AWS 상담챗봇</b><br>
 2018.07.20 - 2018.07.21<br>
 Spring 기반의 AWS 상담 챗봇 개발 (개발 인원 - 3명)
-
 <br>
-
+<br>
 <b>[WhatMenu](https://youtu.be/eAeVGDenO10)</b><br>
 2017.03 - 2017.06<br>
 개발자가 음식점 간판 사진을 찍으면 Google Vision, OpenCV 이용하여 음식점 정보를 제공하는 웹 서비스 개발 (개발 인원 - 4명)
