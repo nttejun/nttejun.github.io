@@ -37,7 +37,7 @@ Software Engineer</h3>
     백오피스 관리자 모듈<br>
         - 관리자 메뉴 사업팀 요청사항 수정<br>
     앱 위변조 모듈<br>
-        - HTTP 통신 모듈에 HTTPS 통신 추가
+        - 앱 위변조 서버 HTTPS 통신 추가
     </p>
     
     <p>
@@ -122,9 +122,9 @@ Software Engineer</h3>
 
 | 구분 | 내용 |
 | :----: | :----: |
-| Language | Java, Javascript |
-| Front-end | HTML, CSS |
-| Back-end | Spring, Vert.x |
+| Language | Java, Javascript(ES6) |
+| Front-end | HTML5, CSS |
+| Back-end | Spring(SpringBoot), Vert.x |
 | Data | Oracle, MySQL |
 | Etc | AWS (EC2, RDS), Github, Gitlab, Bitbucket, Intellij |
 
