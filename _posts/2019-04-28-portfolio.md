@@ -139,10 +139,10 @@ Software Engineer</h3>
 
     <p>
         <b>스터디를 하면서 하나의 주제를 끝까지 학습해 나가고 있습니다.</b><br>
-        - 스프링5 레시피, JAVA 언어로 배우는 디자인 패턴, 이펙티브 자바 2판, 3판 스터디 2017.10 - 2019.02 <br>
-        - 테스트 주도 개발 스터디 2018.04 - 2018.05<br>
-        - 알고리즘 스터디 2018.01 - 2018.02<br>
-        - 교내 알고리즘 스터디 2017.09 - 2017.11
+        - 스프링5 레시피, JAVA 언어로 배우는 디자인 패턴, 이펙티브 자바 2판, 3판 스터디 (2017.10 - 2019.02) <br>
+        - 테스트 주도 개발 스터디 (2018.04 - 2018.05)<br>
+        - 알고리즘 스터디 (2018.01 - 2018.02)<br>
+        - 교내 알고리즘 스터디 (2017.09 - 2017.11)
     </p>
     
     <p>
@@ -150,7 +150,8 @@ Software Engineer</h3>
         - 개인 프로젝트 진행 (최근 관심사 SpringBoot, JPA, TDD 연습)<br>
         - 해커톤(AWS KRUG) 참가
     </p>
-    
+    <br>
+
     
 - <b>메모와 기록을 습관화</b><br>
 
@@ -205,13 +206,13 @@ Spring 기반의 AWS 상담 챗봇 개발 (개발 인원 - 3명)
 ---
 
 <h4>학력</h4>
-    <b>Soonchunhyang University</b> 2011.03 - 2018.02<br>
-    국제통상학과 (컴퓨터소프트웨어 공학 전과)<br>
-    <br>
-    <b>무원고등학교</b> 2008.03 - 2011.02<br>
+<b>Soonchunhyang University</b> 2011.03 - 2018.02<br>
+국제통상학과 (컴퓨터소프트웨어 공학 전과)<br>
+<br>
+<b>무원고등학교</b> 2008.03 - 2011.02<br>
 
 <br>
 
 <h4>링크</h4>
-    https://github.com/nttejun<br>
-    https://wjjeong.tistory.com/ (https://wjun.tistory.com/)
+https://github.com/nttejun<br>
+https://wjjeong.tistory.com/ (https://wjun.tistory.com/)
