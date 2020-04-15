@@ -1,6 +1,7 @@
 
 <h1>정원준</h1>
-- 이메일 : nttejun@gmail.com
+- 이메일 : nttejun@gmail.com<br>
+- 연락처 : 010-5516-4192
 
 <br>
 <br>
@@ -8,36 +9,41 @@
 <h1>경력 & 프로젝트</h1>
 ---
 
-<h3>티모넷 - 2년<br>
-Software Engineer</h3>
+<h3>벅시 - 5개월<br>
+R&D Team Software Engineer</h3>
 
+-  <b>2019.12.16 ~ 현재 업무</b><br>
+<b>모빌리티 서비스 개발 업무</b>
+
+    <p>
+    <b>Spring 기반 기능 개발</b><br>
+    B2B 예약 서비스 기능 개발
+    </p>
+    
 <br>
 
+<h3>티모넷 - 2년<br>
+서비스 개발팀 서버 개발자</h3>
+
 -  <b>2018.10 ~ 2019.11.30</b><br>
-<b>클라우드 보안토큰 서비스 운영 업무</b>
+<b>클라우드 보안토큰 서비스 운영 및 유지보수 업무</b>
 
     <p>
     <b>Vert.x 기반 기능 개발</b><br>
-    SMS 휴대폰본인인증<br>
-        - KG 모빌리언스 모듈을 이용하여 휴대폰본인인증 개발<br>
-    데이터 변조, 복조 기능<br>
-        - PKCS#5 키 유도 함수(PBKDF2)를 사용하여 생성된 키 값으로 XOR 연산을 이용한 데이터 변조, 복조
+    SMS 휴대폰본인인증 : KG 모빌리언스 모듈을 이용하여 휴대폰본인인증 개발<br>
+    데이터 변조, 복조 기능 : PKCS#5 키 유도 함수(PBKDF2)를 사용하여 생성된 키 값으로 XOR 연산을 이용한 데이터 변조, 복조
     </p>
     
     <p>
     <b>SpringBoot 기반 백엔드 유지보수</b><br>
-    결제배치 모듈<br>
-        - 신용카드, 휴대폰 자동결제 및 자동결제 해지 기능 수정<br>
-    백오피스 관리자 통계배치 모듈<br>
-        - 일별 누적 통계항목 추가
+    결제배치 : 신용카드, 휴대폰 자동결제 및 자동결제 해지 기능 수정<br>
+    백오피스 통계배치 : 일별 누적항목에 대한 통계 추가 개발
     </p>
     
     <p>
     <b>Vert.x 기반 백엔드 유지보수</b><br>
-    백오피스 관리자 모듈<br>
-        - 관리자 메뉴 사업팀 요청사항 수정<br>
-    앱 위변조 모듈<br>
-        - 앱 위변조 서버 HTTPS 통신 추가
+    백오피스 관리자 : 관리자 메뉴 수정<br>
+    앱 위변조 : 앱 위변조 서버 HTTPS 통신 추가
     </p>
     
     <p>
@@ -94,25 +100,47 @@ Software Engineer</h3>
     <br>
 
 <br>
+<br>
 
-<h1> 주니어 개발자</h1>
+<h1>경험</h1>
 ---
 
- - 현재 티모넷에서 클라우드 보안토큰 서비스의 개발, 운영 업무를 담당하고 있습니다.
+<h3>
+벅시<br>
+<span onclick="location.href='https://www.buxikorea.com'">https://www.buxikorea.com</span><br>
+2019.12.16 ~<br>
+재직중 / 5개월<br>
+</h3>
+
+  - 공항 전용 모빌리티 스타트업 (15~20명, R&D 5~6명)
+  - 테스트 주도 개발(TDD)에 대한 이해, 레거시 코드 리펙토링
+  - Jenkins, AWS를 이용한 무중단 배포 경험
+  - Skill : Java8, Spring4(batch), PostgreSQL, AWS(EC2, RDS, S3, CloudFront, CloudWatch), GCP(StackDriver), Jenkins, RabbitMQ, Quartz, XMLSpy, Slack, IntelliJ
+
+<br>
+
+<h3>
+티모넷<br>
+<span onclick="location.href='https://www.t-monet.com'">https://www.t-monet.com</span><br>
+2017.11.20 ~ 2019.11.30<br>
+2년<br>
+</h3>
+
+  - 모바일 교통카드(티머니) / 인증(이지싸인) 서비스 기업 (50~60명, 개발 12~15명)
+  - SpringBoot, Vert.x 프레임워크 환경에서의 개발
+  - 서비스 개발에서 운영까지의 전반적인 업무 프로세스 경험
+  - Skill : Vert.x, Springboot, Oracle, Javascript, HTML5, IntelliJ
+
+<br>
+<br>
+
+<h1>주니어 개발자</h1>
+---
+
+ - 현재 모빌리티 서비스에 백엔드 개발 업무를 담당하고 있습니다.
  - 개인적으로 학습한 내용은 업무에 어떻게 적용할 수 있는지 고민합니다.
- - 꾸준한 학습 습관을 위해 노력합니다. 퇴근 후에는 도서관에 매일 방문하여 개발에 필요한 지식을 공부하는 시간을 갖습니다.
-
-
-<br>
-<br>
-
-<h1>업무적 강점</h1>
----
-
- - 서비스 개발에서 운영까지의 업무 프로세스 경험
- - SpringBoot, Vert.x 프레임워크 환경에서의 업무 경험
- - 테스트 주도 개발(TDD)에 대한 이해
- - 새로운 기술에 대한 관심과 지속적인 학습 능력 
+ - 꾸준한 학습 습관을 위해 노력합니다. 매일 4시간 개발에 필요한 지식을 공부하는 시간을 갖습니다.
+ - 새로운 기술에 대한 관심과 지속적인 학습 능력을 스스로 만들어 나아갑니다.
 
 <br>
 <br>
@@ -120,13 +148,16 @@ Software Engineer</h3>
 <h1>기술 스택</h1>
 ---
 
+- 업무에 사용 가능한 목록을 정리하였습니다.
+
 | 구분 | 내용 |
 | :----: | :----: |
 | Language | Java, Javascript(ES6) |
 | Front-end | HTML5, CSS |
-| Back-end | Spring(SpringBoot), Vert.x |
-| Data | Oracle, MySQL |
-| Etc | AWS (EC2, RDS), Github, Gitlab, Bitbucket, Intellij |
+| Back-end | Spring, SpringBoot, Vert.x |
+| Data | PostgreSQL, Oracle, MySQL |
+| Cloud Infra | AWS(EC2, RDS, S3), GCP(StackDriver) |
+| Etc | Jenkins, Github, Gitlab, Bitbucket, Intellij, Slack |
 
 <br>
 <br>
@@ -139,7 +170,7 @@ Software Engineer</h3>
 
     <p>
         <b>스터디를 하면서 하나의 주제를 끝까지 학습해 나가고 있습니다.</b><br>
-        - 클라우드(DevOps) 교육 : Azure DevOps + Agile + CI + DI (2019.11)<br>
+        - <span onclick="location.href='https://github.com/nttejun/DevOpsKoreaHOL/blob/master/articles/index.md'">클라우드(DevOps) 교육</span> : Azure DevOps + Agile + CI + DI (2019.11)<br>
         - 스프링5 레시피, JAVA 언어로 배우는 디자인 패턴, 이펙티브 자바 2판, 3판 스터디 (2017.10 - 2019.02) <br>
         - 테스트 주도 개발 스터디 (2018.04 - 2018.05)<br>
         - 알고리즘 스터디 (2018.01 - 2018.02)<br>
@@ -148,7 +179,7 @@ Software Engineer</h3>
     
     <p>
         <b>개인적인 시간은 만들고 싶은 서비스, 관심 있는 기술을 사용하여 개발하는 것을 좋아합니다.</b><br>
-        - 개인 프로젝트 진행 (최근 관심사 SpringBoot, JPA, TDD 연습)<br>
+        - 개인 프로젝트 진행 (최근 관심사 SpringBoot, JPA, TDD, OOP 연습)<br>
         - 해커톤(AWS KRUG) 참가
     </p>
     <br>
@@ -166,16 +197,21 @@ Software Engineer</h3>
 <h1>개인 프로젝트</h1>
 ---
 
+<b>Animal Forest</b><br>
+개발기간 : 2020.04 - 진행중<br>
+게임에 필요한 정보를 크롤링하여 동물의 숲 게임 도감 서비스를 개발하고 있습니
+<br>
+
 <b>Starter</b><br>
 개발기간 : 2018.09 - 2018.10<br>
-Spring boot 기반의 AWS EC2, AWS RDS(MySQL) 사용하여 게시판 API 개발
+SpringBoot, AWS (EC2, RDS MySQL) 사용하여 게시판 API 개발
 <br>
-<br>
+
 <b>AWS 상담챗봇</b><br>
 개발기간 : 2018.07.20 - 2018.07.21<br>
 Spring 기반의 AWS 상담 챗봇 개발 (개발 인원 - 3명)
 <br>
-<br>
+
 <b>[WhatMenu](https://youtu.be/eAeVGDenO10)</b><br>
 개발기간 : 2017.03 - 2017.06<br>
 개발자가 음식점 간판 사진을 찍으면 Google Vision, OpenCV 이용하여 음식점 정보를 제공하는 웹 서비스 개발 (개발 인원 - 4명)
@@ -195,4 +231,4 @@ Spring 기반의 AWS 상담 챗봇 개발 (개발 인원 - 3명)
 <br>
 <b>링크</b><br>
 https://github.com/nttejun<br>
-https://wjjeong.tistory.com/ (https://wjun.tistory.com/)
+https://wjjeong.tistory.com
