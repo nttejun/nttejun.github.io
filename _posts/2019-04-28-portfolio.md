@@ -2,14 +2,14 @@
 
 ---
 
-<h1>정원준</h1>
+<h2>정원준</h2>
 - 이메일 : nttejun@gmail.com<br>
 - 연락처 : 010-5516-4192
 
 <br>
 <br>
 
-<h1>Experience</h1>
+<span style="font-size:46px;">Experience</span>
 ---
 
 <h2>
@@ -38,7 +38,7 @@
 <br>
 <br>
 
-<h1>Projects</h1>
+<span style="font-size:46px;">Projects</span>
 ---
 
 <h2>벅시 - 5개월<br>
@@ -134,7 +134,7 @@ R&D Team Backend Developer</h2>
 <br>
 <br>
 
-<h1>주니어 개발자</h1>
+<span style="font-size:46px;">주니어 개발자</span>
 ---
 
  - 현재 모빌리티 서비스에 백엔드 개발 업무를 담당하고 있습니다.
@@ -145,10 +145,10 @@ R&D Team Backend Developer</h2>
 <br>
 <br>
 
-<h1>기술 스택</h1>
+<span style="font-size:46px;">기술 스택</span>
 ---
 
-- 업무에서 사용이 가능한 기술을 정리하였습니다.
+- 업무에서 사용 가능한 기술을 작성하였습니다.
 
 | 구분 | 내용 |
 | :----: | :----: |
@@ -162,7 +162,7 @@ R&D Team Backend Developer</h2>
 <br>
 <br>
 
-<h1>간단한 소개</h1>
+<span style="font-size:46px;">간단한 소개</span>
 ---
 
 
@@ -194,7 +194,7 @@ R&D Team Backend Developer</h2>
 <br>
 <br>
 
-<h1>개인 프로젝트</h1>
+<span style="font-size:46px;">개인 프로젝트</span>
 ---
 
 <b>Animal Forest</b><br>
@@ -219,7 +219,7 @@ Spring 기반의 AWS 상담 챗봇 개발 (개발 인원 - 3명)
 <br>
 <br>
 
-<h1>개인 프로필</h1>
+<span style="font-size:46px;">개인 프로필</span>
 ---
 
 <b>학력</b><br>
