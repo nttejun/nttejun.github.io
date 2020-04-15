@@ -6,11 +6,40 @@
 <br>
 <br>
 
-<h1>경력 & 프로젝트</h1>
+<h1>Experience</h1>
+---
+
+<h3>
+<a onclick="location.href='https://www.buxikorea.com'">벅시</a><br>
+2019.12.16 ~ 재직중<br>
+</h3>
+
+  - 공항 전용 모빌리티 스타트업 (15~20명, R&D 5~6명)
+  - 테스트 주도 개발(TDD)에 대한 이해, 레거시 코드 리펙토링
+  - Jenkins, AWS를 이용한 무중단 배포 경험
+  - Skill : Java8, Spring4(batch), PostgreSQL, AWS(EC2, RDS, S3, CloudFront, CloudWatch), GCP(StackDriver), Jenkins, RabbitMQ, Quartz, XMLSpy, Slack, IntelliJ
+
+<br>
+
+<h3>
+<a onclick="location.href='https://www.t-monet.com'">티모넷</a><br>
+2017.11.20 ~ 2019.11.30<br>
+</h3>
+
+  - 모바일 교통카드(티머니) / 인증(이지싸인) 서비스 기업 (50~60명, 개발 12~15명)
+  - SpringBoot, Vert.x 프레임워크 환경에서의 개발
+  - 서비스 개발에서 운영까지의 전반적인 업무 프로세스 경험
+  - 반복적인 업무는 자동화로 업무 프로세스 개선
+  - Skill : Vert.x, Springboot, Oracle, Javascript, HTML5, IntelliJ
+
+<br>
+<br>
+
+<h1>Projects</h1>
 ---
 
 <h3>벅시 - 5개월<br>
-R&D Team Software Engineer</h3>
+R&D Team Backend Developer</h3>
 
 -  <b>2019.12.16 ~ 현재 업무</b><br>
 <b>모빌리티 서비스 개발 업무</b>
@@ -24,14 +53,14 @@ R&D Team Software Engineer</h3>
 <br>
 
 <h3>티모넷 - 2년<br>
-서비스 개발팀 서버 개발자</h3>
+서비스 개발팀, 서버 개발자</h3>
 
 -  <b>2018.10 ~ 2019.11.30</b><br>
 <b>클라우드 보안토큰 서비스 운영 및 유지보수 업무</b>
 
     <p>
     <b>Vert.x 기반 기능 개발</b><br>
-    SMS 휴대폰본인인증 : KG 모빌리언스 모듈을 이용하여 휴대폰본인인증 개발<br>
+    SMS 휴대폰본인인증 : KG 모빌리언스 모듈과 연동하여 휴대폰본인인증 개발<br>
     데이터 변조, 복조 기능 : PKCS#5 키 유도 함수(PBKDF2)를 사용하여 생성된 키 값으로 XOR 연산을 이용한 데이터 변조, 복조
     </p>
     
@@ -102,36 +131,6 @@ R&D Team Software Engineer</h3>
 <br>
 <br>
 
-<h1>업무 경험</h1>
----
-
-<h3>
-<a onclick="location.href='https://www.buxikorea.com'">벅시</a><br>
-2019.12.16 ~<br>
-재직중 / 5개월<br>
-</h3>
-
-  - 공항 전용 모빌리티 스타트업 (15~20명, R&D 5~6명)
-  - 테스트 주도 개발(TDD)에 대한 이해, 레거시 코드 리펙토링
-  - Jenkins, AWS를 이용한 무중단 배포 경험
-  - Skill : Java8, Spring4(batch), PostgreSQL, AWS(EC2, RDS, S3, CloudFront, CloudWatch), GCP(StackDriver), Jenkins, RabbitMQ, Quartz, XMLSpy, Slack, IntelliJ
-
-<br>
-
-<h3>
-<a onclick="location.href='https://www.t-monet.com'">티모넷</a><br>
-2017.11.20 ~ 2019.11.30<br>
-2년<br>
-</h3>
-
-  - 모바일 교통카드(티머니) / 인증(이지싸인) 서비스 기업 (50~60명, 개발 12~15명)
-  - SpringBoot, Vert.x 프레임워크 환경에서의 개발
-  - 서비스 개발에서 운영까지의 전반적인 업무 프로세스 경험
-  - Skill : Vert.x, Springboot, Oracle, Javascript, HTML5, IntelliJ
-
-<br>
-<br>
-
 <h1>주니어 개발자</h1>
 ---
 
@@ -146,11 +145,11 @@ R&D Team Software Engineer</h3>
 <h1>기술 스택</h1>
 ---
 
-- 업무에 사용이 가능한 기술을 정리하였습니다.
+- 업무에서 사용이 가능한 기술을 정리하였습니다.
 
 | 구분 | 내용 |
 | :----: | :----: |
-| Language | Java, Javascript(ES6) |
+| Language | Java8, Javascript(ES6) |
 | Front-end | HTML5, CSS |
 | Back-end | Spring, SpringBoot, Vert.x |
 | Data | PostgreSQL, Oracle, MySQL |
@@ -177,7 +176,7 @@ R&D Team Software Engineer</h3>
     
     <p>
         <b>개인적인 시간에 만들고 싶은 서비스와 관심 있는 기술을 사용하여 개발하는 것을 좋아합니다.</b><br>
-        - 개인 프로젝트 진행 (최근 관심사 SpringBoot, JPA, TDD, OOP 연습)<br>
+        - 개인 프로젝트 진행 (최근 관심사 SpringBoot, JPA, TDD, OOP 연습, 자료구조)<br>
         - 해커톤(AWS KRUG) 참가
     </p>
     <br>
@@ -196,8 +195,8 @@ R&D Team Software Engineer</h3>
 ---
 
 <b>Animal Forest</b><br>
-개발기간 : 2020.04 - 진행중<br>
-게임에 필요한 정보를 크롤링하여 동물의 숲 게임 도감 서비스를 개발하고 있습니
+개발기간 : 2020.04 - 현재 진행중<br>
+게임에 필요한 정보를 크롤링하여 동물의 숲 게임 도감 서비스를 개발하고 있습니다
 <br>
 
 <b>Starter</b><br>
@@ -225,7 +224,6 @@ Spring 기반의 AWS 상담 챗봇 개발 (개발 인원 - 3명)
 국제통상학과 (컴퓨터소프트웨어 공학 전과)<br>
 <br>
 <b>무원고등학교</b> (2008.03 - 2011.02)<br>
-<br>
 <br>
 <b>링크</b><br>
 <a onclick="location.href='https://github.com/nttejun'">https://github.com/nttejun</a><br>
