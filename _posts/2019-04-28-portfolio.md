@@ -17,7 +17,8 @@ R&D Team Software Engineer</h3>
 
     <p>
     <b>Spring 기반 기능 개발</b><br>
-    B2B 예약 서비스 기능 개발
+    B2B 예약 전용 서비스 기능 개발<br>
+    알림톡, SMS, 이메일 발송 비즈니스 로직 리펙토링
     </p>
     
 <br>
@@ -97,17 +98,15 @@ R&D Team Software Engineer</h3>
     <b>스마트 사인 서비스 웹 뷰</b><br>
     서비스 커스터마이징 개발
     </p>
-    <br>
 
 <br>
 <br>
 
-<h1>경험</h1>
+<h1>업무 경험</h1>
 ---
 
 <h3>
-벅시<br>
-<span onclick="location.href='https://www.buxikorea.com'">https://www.buxikorea.com</span><br>
+<a onclick="location.href='https://www.buxikorea.com'">벅시</a><br>
 2019.12.16 ~<br>
 재직중 / 5개월<br>
 </h3>
@@ -120,8 +119,7 @@ R&D Team Software Engineer</h3>
 <br>
 
 <h3>
-티모넷<br>
-<span onclick="location.href='https://www.t-monet.com'">https://www.t-monet.com</span><br>
+<a onclick="location.href='https://www.t-monet.com'">티모넷</a><br>
 2017.11.20 ~ 2019.11.30<br>
 2년<br>
 </h3>
@@ -148,7 +146,7 @@ R&D Team Software Engineer</h3>
 <h1>기술 스택</h1>
 ---
 
-- 업무에 사용 가능한 목록을 정리하였습니다.
+- 업무에 사용이 가능한 기술을 정리하였습니다.
 
 | 구분 | 내용 |
 | :----: | :----: |
@@ -170,7 +168,7 @@ R&D Team Software Engineer</h3>
 
     <p>
         <b>스터디를 하면서 하나의 주제를 끝까지 학습해 나가고 있습니다.</b><br>
-        - <span onclick="location.href='https://github.com/nttejun/DevOpsKoreaHOL/blob/master/articles/index.md'">클라우드(DevOps) 교육</span> : Azure DevOps + Agile + CI + DI (2019.11)<br>
+        - <a onclick="location.href='https://github.com/nttejun/DevOpsKoreaHOL/blob/master/articles/index.md'">클라우드(DevOps) 교육</a> : Azure DevOps + Agile + CI + DI (2019.11)<br>
         - 스프링5 레시피, JAVA 언어로 배우는 디자인 패턴, 이펙티브 자바 2판, 3판 스터디 (2017.10 - 2019.02) <br>
         - 테스트 주도 개발 스터디 (2018.04 - 2018.05)<br>
         - 알고리즘 스터디 (2018.01 - 2018.02)<br>
@@ -178,7 +176,7 @@ R&D Team Software Engineer</h3>
     </p>
     
     <p>
-        <b>개인적인 시간은 만들고 싶은 서비스, 관심 있는 기술을 사용하여 개발하는 것을 좋아합니다.</b><br>
+        <b>개인적인 시간에 만들고 싶은 서비스와 관심 있는 기술을 사용하여 개발하는 것을 좋아합니다.</b><br>
         - 개인 프로젝트 진행 (최근 관심사 SpringBoot, JPA, TDD, OOP 연습)<br>
         - 해커톤(AWS KRUG) 참가
     </p>
@@ -230,5 +228,5 @@ Spring 기반의 AWS 상담 챗봇 개발 (개발 인원 - 3명)
 <br>
 <br>
 <b>링크</b><br>
-https://github.com/nttejun<br>
-https://wjjeong.tistory.com
+<a onclick="location.href='https://github.com/nttejun'">https://github.com/nttejun</a><br>
+<a onclick="location.href='https://wjjeong.tistory.com'">https://wjjeong.tistory.com</a>
