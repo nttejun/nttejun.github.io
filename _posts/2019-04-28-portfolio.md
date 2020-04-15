@@ -4,7 +4,32 @@
 
 <h1>정원준</h1>
 - 이메일 : nttejun@gmail.com<br>
-- 연락처 : 010-5516-4192
+- 연락처 : 010-5516-4192<br>
+- Github : <span onclick="location.href='https://github.com/nttejun'" style="cursor: pointer; color: #32859e;">https://github.com/nttejun</span><br>
+- 기술 블로그 : <span onclick="location.href='https://wjjeong.tistory.com'" style="cursor: pointer; color: #32859e;">https://wjjeong.tistory.com</span>
+
+<br>
+<br>
+
+ - 현재 모빌리티 서비스에서 백엔드 개발 업무를 담당하고 있습니다.
+ - 개인적으로 학습한 내용은 업무에 어떻게 적용할 수 있는지 고민합니다.
+ - 꾸준한 학습 습관을 위해 노력합니다. 매일 4시간 개발에 필요한 지식을 공부하는 시간을 갖습니다.
+ - 새로운 기술에 대한 관심과 지속적인 학습 능력을 스스로 만들어 나아갑니다.
+
+<br>
+<br>
+
+<h1>기술 스택</h1>
+---
+
+| 구분 | 내용 |
+| :----: | :----: |
+| Language | Java8, Javascript(ES6) |
+| Front-end | HTML5, CSS |
+| Back-end | Spring, SpringBoot, Vert.x |
+| Data | PostgreSQL, Oracle, MySQL |
+| Cloud Infra | AWS(EC2, RDS, S3), GCP(StackDriver) |
+| Etc | Jenkins, Github, Gitlab, Bitbucket, Intellij, Slack |
 
 <br>
 <br>
@@ -56,7 +81,7 @@ R&D 팀, 백엔드 개발자</h3>
 <br>
 
 <h3>티모넷 - 2년<br>
-서비스 개발팀, 서버 개발자</h3>
+서비스 개발팀, 백엔드 개발자</h3>
 
 -  <b>2018.10 ~ 2019.11.30</b><br>
 클라우드 보안토큰 서비스 운영 및 유지보수 업무
@@ -111,8 +136,8 @@ R&D 팀, 백엔드 개발자</h3>
     
     <p>
     <b>ID/PW 신규 서비스 웹 뷰</b><br>
-    ID/PW 즐겨찾기, ID/PW 그룹, 기본 CRUD 기능 개발<br>
-    ID/PW 검색 기능 list.js 사용하여 개발
+    ID/PW 즐겨찾기, ID/PW 그룹 기능 개발<br>
+    검색 기능 list.js 사용하여 개발
     </p>
     
     <p>
@@ -130,32 +155,6 @@ R&D 팀, 백엔드 개발자</h3>
     <b>스마트 사인 서비스 웹 뷰</b><br>
     서비스 커스터마이징 개발
     </p>
-
-<br>
-<br>
-
-<h1>주니어 개발자</h1>
----
-
- - 현재 모빌리티 서비스에서 백엔드 개발 업무를 담당하고 있습니다.
- - 개인적으로 학습한 내용은 업무에 어떻게 적용할 수 있는지 고민합니다.
- - 꾸준한 학습 습관을 위해 노력합니다. 매일 4시간 개발에 필요한 지식을 공부하는 시간을 갖습니다.
- - 새로운 기술에 대한 관심과 지속적인 학습 능력을 스스로 만들어 나아갑니다.
-
-<br>
-<br>
-
-<h1>기술 스택</h1>
----
-
-| 구분 | 내용 |
-| :----: | :----: |
-| Language | Java8, Javascript(ES6) |
-| Front-end | HTML5, CSS |
-| Back-end | Spring, SpringBoot, Vert.x |
-| Data | PostgreSQL, Oracle, MySQL |
-| Cloud Infra | AWS(EC2, RDS, S3), GCP(StackDriver) |
-| Etc | Jenkins, Github, Gitlab, Bitbucket, Intellij, Slack |
 
 <br>
 <br>
@@ -185,7 +184,7 @@ R&D 팀, 백엔드 개발자</h3>
     
 - <b>메모와 기록을 습관화</b><br>
     <p>
-        모든 업무 내용을 메모합니다. 태스크, 타임 테이블을 만들어 개인 일정을 관리합니다.<br>
+        업무에서 배운점이나 기억하고 싶은 내용에 대해 메모합니다. 태스크, 타임 테이블을 만들어 개인 일정을 관리합니다.<br>
         공부하며 개발 과정에서 생각한 내용을 기록합니다. 더 나은 개발자가 되기 위해 고민합니다.
     </p>
 
@@ -226,6 +225,3 @@ Spring 기반의 AWS 상담 챗봇 개발 (개발 인원 - 3명)
 <br>
 <b>무원고등학교</b> (2008.03 - 2011.02)<br>
 <br>
-<b>링크</b><br>
-<span onclick="location.href='https://github.com/nttejun'" style="cursor: pointer; color: #32859e;">https://github.com/nttejun</span><br>
-<span onclick="location.href='https://wjjeong.tistory.com'" style="cursor: pointer; color: #32859e;">https://wjjeong.tistory.com</span>
