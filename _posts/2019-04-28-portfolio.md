@@ -2,20 +2,20 @@
 
 ---
 
-<h2>정원준</h2>
+<h1>정원준</h1>
 - 이메일 : nttejun@gmail.com<br>
 - 연락처 : 010-5516-4192
 
 <br>
 <br>
 
-<span style="font-size:46px;">Experience</span>
+<h1>Experience</h1>
 ---
 
-<h2>
-<a onclick="location.href='https://www.buxikorea.com'">벅시</a><br>
+<h3>
+<span onclick="location.href='https://www.buxikorea.com'" style="cursor: pointer; color: #32859e;">벅시</span><br>
 2019.12.16 ~ 재직중<br>
-</h2>
+</h3>
 
   - 공항 전용 모빌리티 스타트업 (15~20명, R&D 5~6명)
   - 테스트 주도 개발(TDD)에 대한 이해, 레거시 코드 리펙토링
@@ -25,7 +25,7 @@
 <br>
 
 <h2>
-<a onclick="location.href='https://www.t-monet.com'">티모넷</a><br>
+<span onclick="location.href='https://www.t-monet.com'" style="cursor: pointer; color: #32859e;">티모넷</span><br>
 2017.11.20 ~ 2019.11.30<br>
 </h2>
 
@@ -38,7 +38,7 @@
 <br>
 <br>
 
-<span style="font-size:46px;">Projects</span>
+<h1>Projects</h1>
 ---
 
 <h2>벅시 - 5개월<br>
@@ -134,7 +134,7 @@ R&D Team Backend Developer</h2>
 <br>
 <br>
 
-<span style="font-size:46px;">주니어 개발자</span>
+<h1>주니어 개발자</h1>
 ---
 
  - 현재 모빌리티 서비스에 백엔드 개발 업무를 담당하고 있습니다.
@@ -145,10 +145,10 @@ R&D Team Backend Developer</h2>
 <br>
 <br>
 
-<span style="font-size:46px;">기술 스택</span>
+<h1>기술 스택</h1>
 ---
 
-- 업무에서 사용 가능한 기술을 작성하였습니다.
+- 업무에서 사용 가능한 기술을 나열하였습니다.
 
 | 구분 | 내용 |
 | :----: | :----: |
@@ -162,7 +162,7 @@ R&D Team Backend Developer</h2>
 <br>
 <br>
 
-<span style="font-size:46px;">간단한 소개</span>
+<h1>간단한 소개</h1>
 ---
 
 
@@ -170,7 +170,7 @@ R&D Team Backend Developer</h2>
 
     <p>
         <b>스터디를 하면서 하나의 주제를 끝까지 학습해 나가고 있습니다.</b><br>
-        - <a onclick="location.href='https://github.com/nttejun/DevOpsKoreaHOL/blob/master/articles/index.md'">클라우드(DevOps) 교육</a> : Azure DevOps + Agile + CI + DI (2019.11)<br>
+        - <span onclick="location.href='https://github.com/nttejun/DevOpsKoreaHOL/blob/master/articles/index.md'" style="cursor: pointer; color: #32859e;">클라우드(DevOps) 교육</span> : Azure DevOps + Agile + CI + DI (2019.11)<br>
         - 스프링5 레시피, JAVA 언어로 배우는 디자인 패턴, 이펙티브 자바 2판, 3판 스터디 (2017.10 - 2019.02) <br>
         - 테스트 주도 개발 스터디 (2018.04 - 2018.05)<br>
         - 알고리즘 스터디 (2018.01 - 2018.02)<br>
@@ -194,7 +194,7 @@ R&D Team Backend Developer</h2>
 <br>
 <br>
 
-<span style="font-size:46px;">개인 프로젝트</span>
+<h1>개인 프로젝트</h1>
 ---
 
 <b>Animal Forest</b><br>
@@ -219,7 +219,7 @@ Spring 기반의 AWS 상담 챗봇 개발 (개발 인원 - 3명)
 <br>
 <br>
 
-<span style="font-size:46px;">개인 프로필</span>
+<h1>개인 프로필</h1>
 ---
 
 <b>학력</b><br>
@@ -229,5 +229,5 @@ Spring 기반의 AWS 상담 챗봇 개발 (개발 인원 - 3명)
 <b>무원고등학교</b> (2008.03 - 2011.02)<br>
 <br>
 <b>링크</b><br>
-<a onclick="location.href='https://github.com/nttejun'">https://github.com/nttejun</a><br>
-<a onclick="location.href='https://wjjeong.tistory.com'">https://wjjeong.tistory.com</a>
+<span onclick="location.href='https://github.com/nttejun'" style="cursor: pointer; color: #32859e;">https://github.com/nttejun</span><br>
+<span onclick="location.href='https://wjjeong.tistory.com'" style="cursor: pointer; color: #32859e;">https://wjjeong.tistory.com</span>
