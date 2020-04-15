@@ -12,10 +12,10 @@
 <h1>Experience</h1>
 ---
 
-<h3>
+<h2>
 <a onclick="location.href='https://www.buxikorea.com'">벅시</a><br>
 2019.12.16 ~ 재직중<br>
-</h3>
+</h2>
 
   - 공항 전용 모빌리티 스타트업 (15~20명, R&D 5~6명)
   - 테스트 주도 개발(TDD)에 대한 이해, 레거시 코드 리펙토링
@@ -24,10 +24,10 @@
 
 <br>
 
-<h3>
+<h2>
 <a onclick="location.href='https://www.t-monet.com'">티모넷</a><br>
 2017.11.20 ~ 2019.11.30<br>
-</h3>
+</h2>
 
   - 모바일 교통카드(티머니) / 인증(이지싸인) 서비스 기업 (50~60명, 개발 12~15명)
   - SpringBoot, Vert.x 프레임워크 환경에서의 개발
@@ -41,8 +41,8 @@
 <h1>Projects</h1>
 ---
 
-<h3>벅시 - 5개월<br>
-R&D Team Backend Developer</h3>
+<h2>벅시 - 5개월<br>
+R&D Team Backend Developer</h2>
 
 -  <b>2019.12.16 ~ 현재 업무</b><br>
 <b>모빌리티 서비스 개발 업무</b>
@@ -55,8 +55,8 @@ R&D Team Backend Developer</h3>
     
 <br>
 
-<h3>티모넷 - 2년<br>
-서비스 개발팀, 서버 개발자</h3>
+<h2>티모넷 - 2년<br>
+서비스 개발팀, 서버 개발자</h2>
 
 -  <b>2018.10 ~ 2019.11.30</b><br>
 <b>클라우드 보안토큰 서비스 운영 및 유지보수 업무</b>
