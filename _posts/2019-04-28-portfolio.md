@@ -48,7 +48,9 @@
   - 공항 전용 모빌리티 스타트업 (15~20명, R&D 5~6명)
   - 테스트 주도 개발(TDD)에 대한 이해, 레거시 코드 리펙토링 경험
   - Jenkins, AWS를 이용한 무중단 배포 경험
-  - Skill : Java8, Spring4(batch), PostgreSQL, AWS(EC2, RDS, S3, CloudFront, CloudWatch), GCP(StackDriver), Jenkins, RabbitMQ, Quartz, XMLSpy, Slack, IntelliJ
+  - Swagger를 이용한 API 문서작성 자동화 경험
+  - XMLSpy를 이용한 VO(Value Object) 생성 자동화 경험 
+  - Skill : Java8, Spring4(batch), PostgreSQL, AWS(EC2, RDS, S3, CloudFront, CloudWatch), GCP(StackDriver), Jenkins, RabbitMQ, Quartz, XMLSpy, Swagger, Slack, IntelliJ
 
 <br>
 
@@ -78,8 +80,14 @@ R&D 팀, 백엔드 개발자</h3>
     <p>
     <b>Spring 기반 기능 개발</b><br>
     B2B 예약 전용 서비스 기능 개발<br>
-    알림톡, SMS, 이메일 발송 비즈니스 로직 리펙토링
+    사용자 알림 비즈니스 로직 리펙토링
     </p>
+    
+    <b>Spring 기반 유지 보수 </b><br>
+    서비스, 결제 연동 시 RESTful API 추가 및 수정<br>
+    </p>
+    
+    
     
 <br>
 
