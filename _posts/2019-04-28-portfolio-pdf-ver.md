@@ -32,6 +32,11 @@
 
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <h3>업무적 경험</h3>
 
@@ -60,20 +65,6 @@
   - 반복적인 업무는 자동화로 업무 프로세스 개선 경험
   - Skill : Java8, Vert.x, Springboot, Oracle, Javascript, HTML5, IntelliJ
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
